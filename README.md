@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityahongal
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning React, JS and Typescript
-- 💞️ I’m looking to collaborate on amazing projects which require interactivity
+- 👀 I’m interested in Front End and Backend Web Development
+- 🌱 I’m currently learning React, JS, Data structures & Algorithms and Go.
+- 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me @adityahongal on X (formerly Twitter)
 
 <!---
